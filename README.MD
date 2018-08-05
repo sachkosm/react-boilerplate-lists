@@ -24,3 +24,12 @@ Create Doc:
 
 Inline toolbox:
 codesandbox.io
+
+1. propTypes
+FLOW
+
+2. No hard coded HTML IDs - accept in id as prop instead like: htmlId
+
+3. Set logical defaults - default/initial props
+
+4. Accessibility - like keyboard input instead of mouse, tab indexes, semantic HTML - what the field is for by name, ARIA
