@@ -21,3 +21,6 @@ Create Doc:
 2. chokidar - watch files
 3. highlight.js - syntax highlighting
 4. npm-run-all - run parallel tasks
+
+Inline toolbox:
+codesandbox.io
