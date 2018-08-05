@@ -33,3 +33,5 @@ FLOW
 3. Set logical defaults - default/initial props
 
 4. Accessibility - like keyboard input instead of mouse, tab indexes, semantic HTML - what the field is for by name, ARIA
+
+5. Configuration objects on props
